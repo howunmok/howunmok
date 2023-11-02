@@ -6,10 +6,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 My projects are available at [https://porfolio-website-c2b21a03a456.herokuapp.com/](https://porfolio-website-c2b21a03a456.herokuapp.com/)
+- 👨‍💻 My projects are available at <a href="https://bennymok-portfolio.netlify.app/" target="_blank">My Portfolio Website<a>
 
-- 📸 I'm also a freelance photographer [https://photography-website-0f00548b56f6.herokuapp.com/](https://photography-website-0f00548b56f6.herokuapp.com/)
-
+- 📸 I'm also a freelance photographer <a href="https://bennymok-porfolio.netlify.app/" target="_blank">My Photography Website<a>
 - 📫 How to reach me **bennymok@protonmail.com**
 
 <br >
