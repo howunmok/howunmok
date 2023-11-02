@@ -8,7 +8,7 @@
 
 - 👨‍💻 My projects are available at <a href="https://bennymok-portfolio.netlify.app/" target="_blank">My Portfolio Website<a>
 
-- 📸 I'm also a freelance photographer <a href="https://bennymok-porfolio.netlify.app/" target="_blank">My Photography Website<a>
+- 📸 I'm also a freelance photographer <a href="https://bennymok-photography.netlify.app/" target="_blank">My Photography Website<a>
 - 📫 How to reach me **bennymok@protonmail.com**
 
 <br >
