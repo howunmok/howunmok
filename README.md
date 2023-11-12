@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently seeking jobs as a **Web Developer**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 My projects are available at <a href="https://bennymok-react-portfolio.netlify.app/" target="_blank">My Portfolio Website<a>
 
